@@ -11,20 +11,25 @@ Through the use of “flash sales” create an easy environment for the selling 
 
 ## Location
 ![55 Francisco St., San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=55+francisco+st+san+francisco+ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C55+francisco+st+san+francisco+ca)  
-\* Brand new office on the Embarcadero!
+Brand new office on the Embarcadero! 👊
 
 ## Technologies
-+ Ruby on Rails
++ Ruby
 + Elixir
++ Erlang
++ Go
 + Javascript
 + Swift
 + Docker
 
 ## Funding
-+ $43M in 4 rounds, high revenue coming in
-+ $20.4M Series C
-+ $14M in Series B funding. (4/16/13)
-+ $7.5M in Series A funding. (7/31/12)   
++ Funding Rounds (6) - $122.97M
++ Apr, 2016	$40M / Series E
++ Apr, 2015	$40M / Series D
++ May, 2014	$20.37M / Series C
++ Apr, 2013	$14M / Series B
++ Jul, 2012	$7.5M / Series A
++ Jan, 2012	$1.1M / Seed
 
 ## Benefits & Perks
 + Lunch served every Monday, Ice cream truck that comes on Wednesday.  Friday bagels.
@@ -44,10 +49,12 @@ Through the use of “flash sales” create an easy environment for the selling 
 
 ## On The Web
 + [CrunchBase](https://www.crunchbase.com/organization/the-realreal)
++ [Github](https://github.com/TheRealReal)
 + [Facebook](https://www.facebook.com/TheRealRealPage/)
 + [Twitter](https://twitter.com/therealreal])
 + [Instagram](https://www.instagram.com/therealreal/)
 + [YouTube](https://www.youtube.com/user/LuxuryConsignment)
+
 
 ## People
 + [Julie Wainright (CEO)](https://www.linkedin.com/in/juliewainwright)
