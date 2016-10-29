@@ -7,7 +7,7 @@ Our team of luxury experts, authentication specialists and skilled gemologists e
 Through the use of “flash sales” create an easy environment for the selling and buying of luxury fashion.
 
 ## Open Positions
-#####  [Ruby on Rails Engineer](https://github.com/h4x0rj0bz/the-realreal/blob/master/rails-engineer.md)
+#### [Ruby on Rails Engineer](https://github.com/h4x0rj0bz/the-realreal/blob/master/rails-engineer.md)
 
 ## Location
 ![55 Francisco St., San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=55+francisco+st+san+francisco+ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C55+francisco+st+san+francisco+ca)  
@@ -46,10 +46,16 @@ Through the use of “flash sales” create an easy environment for the selling 
 + [CrunchBase](https://www.crunchbase.com/organization/the-realreal)
 + [Facebook](https://www.facebook.com/TheRealRealPage/)
 + [Twitter](https://twitter.com/therealreal])
-+ [Insagram](https://www.instagram.com/therealreal/)
++ [Instagram](https://www.instagram.com/therealreal/)
 + [YouTube](https://www.youtube.com/user/LuxuryConsignment)
 
+## People
++ [Julie Wainright (CEO)](https://www.linkedin.com/in/juliewainwright)
++ [Fredrik Björk
+(CTO)](https://www.linkedin.com/in/fbjork)
+
 ## News
++ [The RealReal grabs another $40 million to expand its luxury consignment business](https://techcrunch.com/2016/04/21/the-realreal-grabs-another-40-million-to-expand-its-luxury-consignment-business/)
 + [RealReal Trades in Last Year's Fashions for Cash](http://www.thestreet.com/story/12758978/1/realreal-trades-in-last-years-fashions-for-cash.html)     
 +  [The RealReal’s Latest App RealBook Will Tell You What Your Designer Goods Are Actually Worth](http://techcrunch.com/2014/06/30/therealreals-latest-app-realbook-will-tell-you-what-your-designer-goods-are-actually-worth/)
 + [Julie Wainwright, CEO of the RealReal, on Building Her Empire](http://www.thedailybeast.com/articles/2013/06/27/julie-wainwright-ceo-of-therealreal-on-building-her-empire.html)
