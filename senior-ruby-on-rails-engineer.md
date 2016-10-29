@@ -32,5 +32,5 @@ As a **Senior Ruby on Rails Engineer** here you'll be a major contributor to our
 
 ### Contact
 *Name:* Josh Deeden  
-*Phone Number:* (862) 2**31-337**2  
+*Phone Number:* [(862) 2**31-337**2](tel:8622313372)   
 *Email:* joshua.deeden@gmail.com
