@@ -1,4 +1,4 @@
-# The RealReal
+# 💎 The RealReal 💎
 
 ## Overview
 The RealReal.com is the world’s premier online luxury resale store. Offering authenticated, pre-owned, designer brands including Chanel, Hermès, Manolo Blahnik, Gucci and Cartier — all at up to 90 percent off retail prices —The RealReal eliminates the uncertainty of purchasing luxury brands online and places the world of luxury at your fingertips.
@@ -6,12 +6,12 @@ The RealReal.com is the world’s premier online luxury resale store. Offering a
 Our team of luxury experts, authentication specialists and skilled gemologists evaluates, curates and beautifully presents the best clothing, handbags, shoes, watches, fine jewelry, small leather goods and accessories, creating the web’s only destination for women’s and men’s luxury resale.
 Through the use of “flash sales” create an easy environment for the selling and buying of luxury fashion.
 
+## Open Positions
+#####  [Ruby on Rails Engineer](https://github.com/h4x0rj0bz/the-realreal/blob/master/rails-engineer.md)
+
 ## Location
 ![55 Francisco St., San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=55+francisco+st+san+francisco+ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C55+francisco+st+san+francisco+ca)  
-
-
-+ Brand new office on the Embarcadero.
-+ Near Bart
+\* Brand new office on the Embarcadero!
 
 ## Technologies
 + Ruby on Rails
@@ -26,22 +26,21 @@ Through the use of “flash sales” create an easy environment for the selling 
 + $14M in Series B funding. (4/16/13)
 + $7.5M in Series A funding. (7/31/12)   
 
-## Perks
-+ Lunch served every Monday, Ice cream truck that comes on Wednesday.  Friday happy hours and food and drinks in the office
+## Benefits & Perks
++ Lunch served every Monday, Ice cream truck that comes on Wednesday.  Friday bagels.
++ Stock options
++ Top tier medical, dental and vision
++ 401(k) plan with 25% company matching
++ FSA & life insurance
 
 ## Culture
 + Goal Driven time schedule, aside from releases, you will be able to come in the office at 10am and leave by 5-6 every day (as long as you’re getting work done)
 + Females really well represented in work force.  3 females on their 8-9 person engineering team.
-
 + Chance to work with a diverse team of business, marketing, tech, photographers, stylists, etc.
 
 ## Good To Know
 + Expanding service out to Europe next year
 + Exponential revenue growth
-
-
-## Open Positions
-[Ruby on Rails Engineer](https://github.com/h4x0rj0bz/the-realreal/blob/master/rails-engineer.md)
 
 ## On The Web
 + [CrunchBase](https://www.crunchbase.com/organization/the-realreal)
@@ -51,7 +50,6 @@ Through the use of “flash sales” create an easy environment for the selling 
 + [YouTube](https://www.youtube.com/user/LuxuryConsignment)
 
 ## News
-
 + [RealReal Trades in Last Year's Fashions for Cash](http://www.thestreet.com/story/12758978/1/realreal-trades-in-last-years-fashions-for-cash.html)     
 +  [The RealReal’s Latest App RealBook Will Tell You What Your Designer Goods Are Actually Worth](http://techcrunch.com/2014/06/30/therealreals-latest-app-realbook-will-tell-you-what-your-designer-goods-are-actually-worth/)
 + [Julie Wainwright, CEO of the RealReal, on Building Her Empire](http://www.thedailybeast.com/articles/2013/06/27/julie-wainwright-ceo-of-therealreal-on-building-her-empire.html)
